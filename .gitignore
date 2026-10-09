@@ -1,2 +1,7 @@
 *.csv
 *.db
+node_modules/
+dist/
+public/data.json
+__pycache__/
+.pytest_cache/
