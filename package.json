@@ -1,0 +1,22 @@
+{
+  "name": "fedora-countme-explorer",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "echarts": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "vite": "latest",
+    "vitest": "latest",
+    "typescript": "latest",
+    "jsdom": "latest"
+  }
+}
